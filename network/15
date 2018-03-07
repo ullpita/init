@@ -1,1 +1,2 @@
-/etc/hosts
+les entrees local sont dans le fichier /etc/hosts
+il faut faire cat /etc/hosts pour les voir

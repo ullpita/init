@@ -1,1 +1,1 @@
-sudo systemsetup -getremotelogin
+service ssh status

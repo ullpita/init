@@ -1,1 +1,3 @@
-Add "46.19.122.85 intra.42.fr" in "/etc/hosts"
+pour faire la redirection il faut faire add [adresse ip] [name] 
+46.19.122.85 intra.42.fr
+dans /etc/hosts

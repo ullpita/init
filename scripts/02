@@ -1,0 +1,2 @@
+sudo bash -c 'echo "* 4 * * 0 echo "apt-get update -y && apt-get upgrade" | sudo tee /var/log/update_script.log" >> /etc/crontab'
+

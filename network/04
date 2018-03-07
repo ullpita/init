@@ -1,1 +1,1 @@
-route get default
+netstat -rn | grep "default" | grep "en0"

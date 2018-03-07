@@ -1,1 +1,1 @@
-pidof sshd
+ps aux

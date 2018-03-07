@@ -1,1 +1,1 @@
-sudo vi /etc/hostname
+hostname new_name

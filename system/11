@@ -1,1 +1,1 @@
-du -hs /var
+df -h
